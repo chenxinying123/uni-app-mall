@@ -22,7 +22,7 @@
 			return {
 				// 个人信息
 				user: {
-					username: "米斯特吴",
+					username: "追光者",
 					face: "/static/img/face.jpg"
 				}
 			}

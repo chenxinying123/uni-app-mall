@@ -2,10 +2,10 @@
 	<view>
 		<view class="block"></view>
 		<view class="QR">
-			<image src="../../../static/img/qrcode.jpg"></image>
+			<image src="../../../static/img/face.jpg"></image>
 		</view>
 		<view class="title">
-			米斯特吴微信, 技术交流, 问题答疑, 感情沟通.
+			个人中心
 		</view>
 		<view class="btn" v-show="showBtn" @tap="handleSavePhotos">
 			{{savePhotos}}
